@@ -1,0 +1,14 @@
+{
+  "defaults": {
+    "hideElements": "#carbonads",
+    "standard": "WCAG2AAA"
+  },
+  "urls": [
+    "https://bitsofco.de",
+    "https://bitsofco.de/subscribe",
+    {
+      "url": "https://bitsofco.de/collapsible-margins",
+      "hideElements": "#carbonads, #disqus_thread"
+    }
+  ]
+}
