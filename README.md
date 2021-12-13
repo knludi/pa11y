@@ -5,3 +5,12 @@
 * [How to Meet WCAG (Quick Reference)](https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_overview#principle1)
 * [Json Formatter](https://jsonformatter.curiousconcept.com/#)
 * [H64: Using the title attribute of the frame and iframe elements](https://www.w3.org/WAI/GL/WCAG20-TECHS/H64.html)
+
+
+1. `nvm use 15.14.0`
+2. `npm install -g pa11y`
+3. `npm install -g pa11y-ci`
+
+# Running Tests
+
+* `pa11y-ci`
