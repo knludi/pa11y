@@ -1,13 +1,13 @@
 {
   "defaults": {
     "hideElements": "#carbonads",
-    "standard": "WCAG2AAA"
+    "standard": "WCAG2A"
   },
   "urls": [
-    "https://typeform.design/blocks/iframe.html?id=blocks-nps-creator--default&viewMode=story",
-    "https://bitsofco.de/subscribe",
+    "https://globo.com",
+    "https://globo.com",
     {
-      "url": "https://bitsofco.de/collapsible-margins",
+      "url": "https://globo.com",
       "hideElements": "#carbonads, #disqus_thread"
     }
   ]
